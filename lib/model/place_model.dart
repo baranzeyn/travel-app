@@ -31,10 +31,12 @@ List places = [
       days: 10),
   PlaceInfo(
       location: "Turkey",
-      image: "lib/assets/images/licensed-image.jpeg",
-      name: "Ephesus",
+      image: "lib/assets/images/2316970_46f2f70f8e5d2a7ad1f207ee4710a4fc_640x640.jpg",
+      name: "Neolokal",
       desc:
-          "Ephesus (Ancient Greek: Ephesos) was an ancient Greek city located on the west coast of Anatolia, within the borders of the Selçuk district of today's İzmir province, and later became an important Roman city. It was one of the twelve cities of Ionia in the classical Greek era.",
+          "Beyoğlu'nda bulunan Neolokal, Türk mutfağına dair lezzetler sunuyor. İstanbul'da 1 Michelin Yıldızına sahip olan 4 restorandan biri olan Neolokal'de yemek yemenin maliyeti ortalama 1490 TL.
+          1 Michelin Yıldızı 'yüksek kalite mutfak, uğramaya değer' anlamına geliyor.
+          Neolokal, sürdürülebilir gastronomiye yönelik öncü yaklaşımından dolayı Michelin Yıldızı'nın yanı sıra Yeşil Yıldız da almasıyla dikkat çekiyor.",
       distance: 10000,
       days: 5),
 ];
